@@ -150,7 +150,7 @@ a:hover {
 
 section {
   padding-top: 2vh;
-  height: 40vh;/*96vh;*/
+  height: 35vh;/*96vh;*/
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -166,7 +166,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 35vh;
 }
 
 .section__pic-container {
